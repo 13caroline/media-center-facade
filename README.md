@@ -1,24 +1,33 @@
 # Desenvolvimento de Sistemas de Software
+__3º ano__
+
+# Conteúdo
+- Resolução dos guiões das aulas práticas
+- Trabalho prático
+
+# Trabalho Prático
 
 Plataforma de um media center para partilha de música/vídeos (media) num apartamento.
 A conceção e desenvolvimento da aplicação deverá seguir uma abordagem suportada por UML, de acordo com o processo de entregas faseadas. A aplicação deverá ser desenvolvida utilizando uma arquitectura multi-camada e tecnologias orientadas a objectos (Java).
 
-#### Fase 1: Análise de requisitos
+## Fase 1: Análise de requisitos
 * Modelo de Domínio com as entidades relevantes
 * Modelo de Use Case com as funcionalidades propostas 
 * Especificação dos Use Case
 * Protótipo da interface proposta
 
-#### Fase 2: Modelação Concetual da Solução
+## Fase 2: Modelação Concetual da Solução
 * Uma arquitetura concetual do sistema, capaz de suportar o conjunto de Use Case definido
 * Modelação comportamental dos métodos necessários à implementação desses Use Case
 * Primeira implementação, a título experimental, de alguns Use Case relevantes
 
-#### Fase 3: Implementação da Solução
+## Fase 3: Implementação da Solução
 
 * Os modelos arquitecturais e comportamentais, especificados a nível de implementação, necessários à implementação do sub-conjunto de Use
 Case
 * A implementação dos Use Case referidos
+
+__Palavras-chave__: Java, UML, Modelo de Use Case, Modelo de Domínio
 
 # Entrega do Projeto 
 
