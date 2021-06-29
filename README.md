@@ -1,36 +1,46 @@
-# Desenvolvimento de Sistemas de Software
-__3º ano__
+# Software Systems Development
 
-# Conteúdo
-- Resolução dos guiões das aulas práticas
-- Trabalho prático
+# Content
+- Pratical classes' scripts
+- Project
 
-# Trabalho Prático
+# Project
 
-Plataforma de um media center para partilha de música/vídeos (media) num apartamento.
-A conceção e desenvolvimento da aplicação deverá seguir uma abordagem suportada por UML, de acordo com o processo de entregas faseadas. A aplicação deverá ser desenvolvida utilizando uma arquitectura multi-camada e tecnologias orientadas a objectos (Java).
+<p align="center">
+  <img src="
+https://github.com/13caroline/DSS/blob/master/MediaCenterFacade/src/presentation/animatedLogo128.png" height="200" width="250" >
+</p>
 
-## Fase 1: Análise de requisitos
-* Modelo de Domínio com as entidades relevantes
-* Modelo de Use Case com as funcionalidades propostas 
-* Especificação dos Use Case
-* Protótipo da interface proposta
+Platform of a media center for sharing music/videos (media) in an apartment.
+The design and development of the application should follow a UML-supported approach, according to the phased delivery process. The application should be developed using a multi-layer architecture and object-oriented technologies (Java). ([Technical report](https://github.com/13caroline/DSS/blob/master/relatorioDSS.pdf))
 
-## Fase 2: Modelação Concetual da Solução
-* Uma arquitetura concetual do sistema, capaz de suportar o conjunto de Use Case definido
-* Modelação comportamental dos métodos necessários à implementação desses Use Case
-* Primeira implementação, a título experimental, de alguns Use Case relevantes
+## Phase 1: Requirements Analysis
+* Domain Model with relevant entities
+* Use Case model with the proposed features
+* Use Case Specification
+* Prototype of the proposed interface 
 
-## Fase 3: Implementação da Solução
+## Phase 2: Solution's Conceptual Modeling
+* A conceptual system architecture, capable of supporting the defined Use Case set
+* Behavioral modeling of the methods needed to implement these Use Case
+* First experimental implementation of some relevant Use Case 
 
-* Os modelos arquitecturais e comportamentais, especificados a nível de implementação, necessários à implementação do sub-conjunto de Use
-Case
-* A implementação dos Use Case referidos
+## Phase 3: Solution Implementation
 
-__Palavras-chave__: Java, UML, Modelo de Use Case, Modelo de Domínio
+* The architectural and behavioral models, specified at the implementation level, necessary to implement the Use Case subset
+* The implementation of the referred Use Case 
 
-# Entrega do Projeto 
+__Keywords__: Java, UML, Use Case model, Domain model
 
-18 de dezembro de 2019
 
-<img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" >
+## Collaborators
+
+| Name            	|
+|-----------------	|
+| [Ana Afonso](https://github.com/AnaBeatriz2)                 |
+| [Carolina Cunha](https://github.com/13caroline)  	|
+| [Hugo Faria](https://github.com/KHiro13)      	|
+| [João Diogo Mota](https://github.com/JoaoDiogoMota) 	|
+| [Pedro Silva](https://github.com/PSilva3)   	|
+
+> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (3rd Year).
