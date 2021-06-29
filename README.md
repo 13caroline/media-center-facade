@@ -7,8 +7,7 @@
 # Project
 
 <p align="center">
-  <img src="
-https://github.com/13caroline/DSS/blob/master/MediaCenterFacade/src/presentation/animatedLogo128.png" height="200" width="250" >
+  <img src="https://github.com/13caroline/DSS/blob/master/MediaCenterFacade/src/presentation/animatedLogo128.png" height="200" width="200" >
 </p>
 
 Platform of a media center for sharing music/videos (media) in an apartment.
